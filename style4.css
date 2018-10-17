@@ -1,0 +1,30 @@
+
+    .tab button:hover {
+            border:none;
+            font-size:95%;
+            border:solid thin black;
+        }
+
+        .tabcontent {
+            display: none;
+            padding: 6px 12px;
+            border-top: none;
+        }
+        .tab {
+            overflow: hidden;
+        }
+    .tab button {
+        background-color: inherit;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        transition: 0.3s;
+        font-size: 17px;
+        margin-right:10px;
+      }
+      td{
+        padding:20px;
+      }
+      
